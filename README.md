@@ -2,7 +2,7 @@
 
 - 🔭 I work at the [Cyberinfrastructure for Network Science Center](https://github.com/cns-iu/)
 
-[![Bruce Herr's github stats](https://github-readme-stats.vercel.app/api?username=bherr2&count_private=true)](https://github.com/bherr2)
+[![Bruce Herr's github stats](https://github-readme-stats.vercel.app/api?username=bherr2&count_private=true&cache=false)](https://github.com/bherr2)
 
 <!--
 **bherr2/bherr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
